@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Dette er magi.
+Det det blir intervaller til kveld, pluss styrke.
